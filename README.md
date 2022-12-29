@@ -13,7 +13,7 @@ TINC is a non-contrastive method, that uses temporal information between OCT vol
 
  [Harbor](https://clinicaltrials.gov/ct2/show/NCT00891735) dataset is used for self-supervised pre-training and supervised evaluation. Unfortunately we cannot release the dataset.
 
-Make sure that your folder structure is similar to ours. Such as .../pat_id/visit_day/Bscan_number.png. Visit day is in days. Such as 000, 030 ... 720.
+Make sure that your folder structure is similar to ours. Such as .../pat_id/visit_day/Bscan_number.png. Visit date is in days. Such as 000, 030 ... 720.
 
 ## Training
 
